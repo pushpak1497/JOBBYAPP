@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-card {
+  background-color: #64748b;
+  padding: 30px;
+}
+.logo {
+  height: 30px;
+  width: 80px;
+  text-align: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.error-msg {
+  color: #ff0b37;
+}
+.button {
+  padding: 5px;
+  width: 170px;
+  border-radius: 10px;
+  border: 0px;
+  margin-top: 10px;
+  color: #fff;
+  background-color: #4f46e5;
+}

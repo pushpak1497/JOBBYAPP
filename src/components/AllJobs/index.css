@@ -1,0 +1,22 @@
+.jobs-bg-container {
+  background-color: #000;
+  display: flex;
+  padding: 20px;
+}
+.jobs-container {
+  width: 70%;
+}
+.filters-container {
+  width: 30%;
+  background-color: #fff;
+}
+.text1 {
+  color: #fff;
+}
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  padding: 15px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+}

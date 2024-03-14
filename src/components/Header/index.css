@@ -1,0 +1,28 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #272727;
+}
+.logo {
+  height: 30px;
+  width: 75px;
+}
+.button {
+  color: #6366f1;
+  border: 0px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+.list-item {
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
+}
